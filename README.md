@@ -1,2 +1,2 @@
 # erivelton
-teste aula - não usar
+teste aula - não usar - não faz nada útil
